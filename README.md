@@ -47,7 +47,7 @@ server/common/*
 
 - You could see message like this when service run and connect with your local environment.
 
-  <img style="-webkit-user-select: none;cursor: zoom-out;" src="https://user-images.githubusercontent.com/21056590/54073315-fa323e80-42c8-11e9-82c6-0a1da6813c26.png" width="1149" height="227">
+  <img style="-webkit-user-select: none;cursor: zoom-in;" src="https://user-images.githubusercontent.com/21056590/54073315-fa323e80-42c8-11e9-82c6-0a1da6813c26.png" width="788" height="155">
 
 - Check `http://localhost:8083/graphql` for queries
 
