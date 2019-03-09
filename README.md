@@ -46,9 +46,11 @@ server/common/*
 ## Connection
 
 - You could see message like this when service run and connect with your local environment.
-  <img width="1913" alt="2019-03-06 2 58 03" src="https://user-images.githubusercontent.com/21056590/53863252-08fcc500-402d-11e9-8c06-d957703c0e20.png">
 
-- `http://localhost:8083/graphql` for querie testing.
+  <img style="-webkit-user-select: none;cursor: zoom-in;" src="https://user-images.githubusercontent.com/21056590/54073233-2e592f80-42c8-11e9-85c4-8bb71e05a19b.png" width="788" height="175">
+
+- Check `http://localhost:8083/graphql` for queries
+
   <img width="1915" alt="2019-03-06 4 34 07" src="https://user-images.githubusercontent.com/21056590/53863498-b8d23280-402d-11e9-8cde-95b471de379b.png">
 
 ## LISENCE
