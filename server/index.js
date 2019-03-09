@@ -18,8 +18,7 @@ const apollo = new ApolloServer({ schema });
 
 app.use(logger("dev"));
 app.use(express.json());
-app.use(bodyParser.json({ limit: "10mb" }));
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.json());
 app.use(cookieParser());
 app.use(cors());
 

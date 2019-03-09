@@ -1,5 +1,5 @@
 {
-  "name": "MSA-with-GraphQL-and-Mongoose",
+  "name": "MSA-Backend-with-GraphQL-and-Mongoose",
   "version": "1.0.0",
   "description": "A Simple Backend Service for MSA",
   "main": "index.js",
