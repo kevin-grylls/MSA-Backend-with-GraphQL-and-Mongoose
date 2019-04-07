@@ -1,4 +1,4 @@
-# Simple MSA Backend Example with GraphQL and Mongoose
+# Simple Backend Example with GraphQL and Mongoose
 
 ## Service Description
 
